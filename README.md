@@ -1,4 +1,4 @@
-# C. difficile Transmission Model
+# *C. difficile* Transmission Model
 
 This repository contains the code supporting the analyses presented in the manuscript:
 
@@ -18,7 +18,7 @@ This repository contains the code supporting the analyses presented in the manus
   R script to perform partial rank correlation coefficient (PRCC) analyses to identify key drivers of variation in the intrinsic reproduction number (Ri) and the colonization amplification index (Ai).
 
 - **4_Sensitivity_Analysis_Pi.R**  
-  R script to perform sensitivity analysis on community-onset case definitions (π values). This script evaluates the impact of different thresholds for defining healthcare-associated C. difficile infections on Ai and Ri.
+  R script to perform sensitivity analysis on community-onset case definitions (π values). This script evaluates the impact of different thresholds for defining healthcare-associated *C. difficile* infections on Ai and Ri.
 
 - **5_Interventions_Analysis.R**  
   R script to evaluate the impact of different intervention strategies (screening, isolation, and prophylaxis) on *C. difficile* transmission. The script runs simulations under varying screening coverage (efe_2 parameter) and estimates reductions in both CDI incidence and Ai.
