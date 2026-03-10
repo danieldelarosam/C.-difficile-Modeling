@@ -1,8 +1,8 @@
-# *C. difficile* Transmission Model
+# *Clostridioides difficile* Transmission Model
 
 This repository contains the code supporting the analyses presented in the manuscript:
 
-*"Colonization Amplification despite Limited In-Hospital Transmission: Modeling the Epidemiological Paradox of C. difficile and the Impact of Control Strategies in Healthcare Settings."*
+"Colonization Amplification despite Limited In-Hospital Transmission: A Modeling Study of the Epidemiological Paradox of *Clostridioides difficile* and Control Strategies in Healthcare Settings."
 
 ---
 
