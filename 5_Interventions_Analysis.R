@@ -26,7 +26,7 @@ initial_conditions <- c(
   dDiagnosed_CDI=0) 
 
 parameters <- c(
-  delta = 0.0007233824,    # Transmission rate of infected individuals, to be optimized based on observed institutional cases. 
+  delta = 0.0007233824,    # Transmission rate of infected individuals. 
   equis = 0.7,             # Relative transmission for colonized patients.
   alfa = 0.064,            # Rate of antibiotic use.
   epsilon = 0.13,          # Fraction of asymptomatic carriers who develop symptomatic disease during hospitalization
