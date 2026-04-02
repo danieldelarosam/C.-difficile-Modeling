@@ -2,7 +2,7 @@
 
 This repository contains the code supporting the analyses presented in the manuscript:
 
-"Colonization Amplification despite Limited In-Hospital Transmission: A Modeling Study of *Clostridioides difficile* Transmission and Control in Healthcare Settings."
+"Clostridioides difficile Colonization Amplification despite Limited In-Hospital Transmission: A Modeling Study."
 
 ---
 
