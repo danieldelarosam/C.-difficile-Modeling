@@ -12,10 +12,10 @@ This repository contains the code supporting the analyses presented in the manus
   R script to run the baseline compartmental model simulating *C. difficile* transmission and colonization amplification in a healthcare setting. Includes optimization of the transmission rate, Monte Carlo simulations, and estimation of key epidemiological metrics.
 
 - **2_Univariate_sensitivity_analysis.R**  
-  R script to conduct a univariate sensitivity analysis by varying each model parameter individually, recalibrating the transmission scaling parameter (δ), and recording the resulting Ri and Ai.
+  R script to conduct a univariate sensitivity analysis by varying each model parameter individually, recalibrating the transmission scaling parameter (δ), and recording the resulting  intrinsic reproduction number (Ri) and the colonization amplification index (Ai).
 
 - **3_PRCC_Sensitivity_Analysis.R**  
-  R script to perform partial rank correlation coefficient (PRCC) analyses to identify key drivers of variation in the intrinsic reproduction number (Ri) and the colonization amplification index (Ai).
+  R script to perform partial rank correlation coefficient (PRCC) analyses to identify key drivers of variation in the Ri and the Ai.
 
 - **4_Sensitivity_Analysis_Pi.R**  
   R script to perform sensitivity analysis on community-onset case definitions (π values). This script evaluates the impact of different thresholds for defining healthcare-associated *C. difficile* infections on Ai and Ri.
